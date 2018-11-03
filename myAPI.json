@@ -1,0 +1,1088 @@
+{
+	"vehicles" : [
+		{
+			"name" : "AT-AT",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/AT-AT.jpg"
+		},
+		{
+			"name" : "AT-RT",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/AT-RT.jpg"
+		},
+		{
+			"name" : "AT-ST",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/AT-ST.jpg"
+        },
+		{
+			"name" : "AT-TE",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/AT-TE.jpg"
+        },
+		{
+			"name" : "Armored Assault Tank",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/ArmoredAssaultTank.jpg"
+        },
+		{
+			"name" : "Bantha-II cargo skiff",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Bantha-IIcargoskiff.jpg"
+        },
+		{
+			"name" : "C-9979 landing craft",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/C-9979landingcraft.jpg"
+        },
+		{
+			"name" : "Clone turbo tank",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Cloneturbotank.jpg"
+		},
+		{
+			"name" : "Corporate Alliance tank droid",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/CorporateAlliancetankdroid.jpg"
+		},
+		{
+			"name" : "Droid gunship",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Droidgunship.jpg"
+        },
+		{
+			"name" : "Droid tri-fighter",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Droidtri-fighter.jpg"
+		},
+		{
+			"name" : "Emergency Firespeeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/EmergencyFirespeeder.jpg"
+        },
+		{
+			"name" : "Flitknot speeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Flitknotspeeder.jpg"
+		},
+		{
+			"name" : "Geonosian starfighter",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Geonosianstarfighter.jpg"
+		},
+		{
+			"name" : "Imperial Speeder Bike",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/ImperialSpeederBike.jpg"
+		},
+		{
+			"name" : "Koro-2 Exodrive airspeeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Koro-2Exodriveairspeeder.jpg"
+		},
+		{
+			"name" : "LAAT/c",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/LAATc.jpg"
+		},
+		{
+			"name" : "LAAT/i",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/LAATi.jpg"
+		},
+		{
+			"name" : "Multi-Troop Transport",
+			"imagePath": "https://samuelmd13.github.io/vehicles/Multi-TroopTransport.jpg"
+		},
+		{
+			"name" : "Neimoidian shuttle",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Neimoidianshuttle.jpg"
+		},
+		{
+			"name" : "Oevvaor jet catamaran",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Oevvaorjetcatamaran.jpg"
+		},
+		{
+			"name" : "Raddaugh Gnasp fluttercraft",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/RaddaughGnaspfluttercraft.jpg"
+		},
+		{
+			"name" : "SPHA",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/SPHA.jpg"
+		},
+		{
+			"name" : "Sail barge",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Sailbarge.jpg"
+        },
+		{
+			"name" : "Sand Crawler",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/SandCrawler.jpg"
+		},
+		{
+			"name" : "Single Trooper Aerial Platform",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/SingleTrooperAerialPlatform.jpg"
+		},
+		{
+			"name" : "Sith speeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Sithspeeder.jpg"
+		},
+		{
+			"name" : "Snowspeeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Snowspeeder.jpg"
+		},
+		{
+			"name" : "Storm IV Twin-Pod cloud car",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/StormIVTwin-Podcloudcar.jpg"
+		},
+		{
+			"name" : "T-16 skyhopper",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/T-16skyhopper.jpg"
+		},
+		{
+			"name" : "TIE/IN interceptor",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/TIEINinterceptor.jpg"
+		},
+		{
+			"name" : "TIE/LN starfighter",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/TIELNstarfighter.jpg"
+		},
+		{
+			"name" : "TIE bomber",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/TIEbomber.jpg"
+		},
+		{
+			"name" : "Tribubble bongo",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Tribubblebongo.jpg"
+		},
+		{
+			"name" : "Tsmeu-6 personal wheel bike",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Tsmeu-6personalwheelbike.jpg"
+		},
+		{
+			"name" : "Vulture Droid",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/VultureDroid.jpg"
+		},
+		{
+			"name" : "X-34 landspeeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/X-34landspeeder.jpg"
+        },
+		{
+			"name" : "XJ-6 airspeeder",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/XJ-6airspeeder.jpg"
+        },
+		{
+			"name" : "Zephyr-G swoop bike",
+			"imagePath" : "https://samuelmd13.github.io/vehicles/Zephyr-Gswoopbike.jpg"
+		}
+	],
+	"starships" : [
+		{
+			"name" : "A-wing",
+			"imagePath" : "https://samuelmd13.github.io/starships/A-wing.jpg"
+		},
+		{
+			"name" : "AA-9 Coruscant freighter",
+			"imagePath" : "https://samuelmd13.github.io/starships/AA-9Coruscantfreighter.jpg"
+		},
+		{
+			"name" : "B-wing",
+			"imagePath" : "https://samuelmd13.github.io/starships/B-wing.jpg"
+		},
+		{
+			"name" : "Banking clan frigate",
+			"imagePath" : "https://samuelmd13.github.io/starships/Bankingclanfrigate.jpg"
+		},
+		{
+			"name" : "Belbullab-22 starfighter",
+			"imagePath" : "https://samuelmd13.github.io/starships/Belbullab-22starfighter.jpg"
+		},
+		{
+			"name" : "CR90 corvette",
+			"imagePath" : "https://samuelmd13.github.io/starships/CR90corvette.jpg"
+		},
+		{
+			"name" : "Calamari Cruiser",
+			"imagePath" : "https://samuelmd13.github.io/starships/CalamariCruiser.jpg"
+		},
+		{
+			"name" : "Death Star",
+			"imagePath" : "https://samuelmd13.github.io/starships/DeathStar.jpg"
+		},
+		{
+			"name" : "Droid control ship",
+			"imagePath" : "https://samuelmd13.github.io/starships/DroidControlShip.jpg"
+		},
+		{
+			"name" : "EF76 Nebulon-B escort frigate",
+			"imagePath" : "https://samuelmd13.github.io/starships/EF76Nebulon-Bescortfrigate.jpg"
+        },
+		{
+			"name" : "Executor",
+			"imagePath" : "https://samuelmd13.github.io/starships/Executor.jpg"
+		},
+		{
+			"name" : "H-type Nubian yacht",
+			"imagePath" : "https://samuelmd13.github.io/starships/H-typeNubianyacht.jpg"
+		},
+		{
+			"name" : "Imperial shuttle",
+			"imagePath" : "https://samuelmd13.github.io/starships/ImperialShuttle.jpg"
+        },
+		{
+			"name" : "J-type diplomatic barge",
+			"imagePath" : "https://samuelmd13.github.io/starships/J-typediplomaticbarge.jpg"
+		},
+		{
+			"name" : "Jedi Interceptor",
+			"imagePath" : "https://samuelmd13.github.io/starships/JediInterceptor.jpg"
+		},
+		{
+			"name" : "Jedi starfighter",
+			"imagePath" : "https://samuelmd13.github.io/starships/Jedistarfighter.jpg"
+        },
+		{
+			"name" : "Millennium Falcon",
+			"imagePath" : "https://samuelmd13.github.io/starships/MillenniumFalcon.jpg"
+		},
+		{
+			"name" : "Naboo fighter",
+			"imagePath" : "https://samuelmd13.github.io/starships/NabooFighter.jpg"
+		},
+		{
+			"name" : "Naboo Royal Starship",
+			"imagePath" : "https://samuelmd13.github.io/starships/NabooRoyalStarship.jpg"
+		},
+		{
+			"name" : "Naboo star skiff",
+			"imagePath" : "https://samuelmd13.github.io/starships/Naboostarskiff.jpg"
+		},
+		{
+			"name" : "Rebel transport",
+			"imagePath" : "https://samuelmd13.github.io/starships/Rebeltransport.jpg"
+		},
+		{
+			"name" : "Republic Assault ship",
+			"imagePath" : "https://samuelmd13.github.io/starships/RepublicAssaultShip.jpg"
+		},
+		{
+			"name" : "Republic Cruiser",
+			"imagePath" : "https://samuelmd13.github.io/starships/RepublicCruiser.jpg"
+		},
+		{
+			"name" : "Republic attack cruiser",
+			"imagePath" : "https://samuelmd13.github.io/starships/Republicattackcruiser.jpg"
+		},
+		{
+			"name" : "Scimitar",
+			"imagePath" : "https://samuelmd13.github.io/starships/Scimitar.jpg"
+		},
+		{
+			"name" : "Sentinel-class landing craft",
+			"imagePath" : "https://samuelmd13.github.io/starships/Sentinel-classlandingcraft.jpg"
+		},
+		{
+			"name" : "Slave 1",
+			"imagePath" : "https://samuelmd13.github.io/starships/Slave1.jpg"
+		},
+		{
+			"name" : "Solar Sailer",
+			"imagePath" : "https://samuelmd13.github.io/starships/SolarSailer.jpg"
+		},
+		{
+			"name" : "Star Destroyer",
+			"imagePath" : "https://samuelmd13.github.io/starships/StarDestroyer.jpg"
+		},
+		{
+			"name" : "T-70 X-wing fighter",
+			"imagePath" : "https://samuelmd13.github.io/starships/T-70X-wingfighter.jpg"
+		},
+		{
+			"name" : "TIE Advanced x1",
+			"imagePath" : "https://samuelmd13.github.io/starships/TIEAdvancedx1.jpg"
+		},
+		{
+			"name" : "Theta-class T-2c shuttle",
+			"imagePath" : "https://samuelmd13.github.io/starships/Theta-classT-2cshuttle.jpg"
+        },
+		{
+			"name" : "Trade Federation cruiser",
+			"imagePath" : "https://samuelmd13.github.io/starships/TradeFederationcruiser.jpg"
+        },
+		{
+			"name" : "V-wing",
+			"imagePath" : "https://samuelmd13.github.io/starships/V-wing.jpg"
+		},
+		{
+			"name" : "X-wing",
+			"imagePath" : "https://samuelmd13.github.io/starships/X-wing.jpg"
+		},
+		{
+			"name" : "Y-wing",
+			"imagePath" : "https://samuelmd13.github.io/starships/Y-wing.jpg"
+		},
+		{
+			"name" : "arc-170",
+			"imagePath" : "https://samuelmd13.github.io/starships/arc-170.jpg"
+		}
+	],
+	"species" : [
+		{
+			"name" : "Aleena",
+			"imagePath" : "https://samuelmd13.github.io/species/Aleena.jpg"
+		},
+		{
+			"name" : "Besalisk",
+			"imagePath" : "https://samuelmd13.github.io/species/Besalisk.jpg"
+		},
+		{
+			"name" : "Cerean",
+			"imagePath" : "https://samuelmd13.github.io/species/Cerean.jpg"
+		},
+		{
+			"name" : "Chagrian",
+			"imagePath" : "https://samuelmd13.github.io/species/Chagrian.jpg"
+		},
+		{
+			"name" : "Clawdite",
+			"imagePath" : "https://samuelmd13.github.io/species/Clawdite.jpg"
+		},
+		{
+			"name" : "Droid",
+			"imagePath" : "https://samuelmd13.github.io/species/Droid.jpg"
+		},
+		{
+			"name" : "Dug",
+			"imagePath" : "https://samuelmd13.github.io/species/Dug.jpg"
+		},
+		{
+			"name" : "Ewok",
+			"imagePath" : "https://samuelmd13.github.io/species/Ewok.jpg"
+		},
+		{
+			"name" : "Geonosian",
+			"imagePath" : "https://samuelmd13.github.io/species/Geonosian.jpg"
+		},
+		{
+			"name" : "Gungan",
+			"imagePath" : "https://samuelmd13.github.io/species/Gungan.jpg"
+		},
+		{
+			"name" : "Human",
+			"imagePath" : "https://samuelmd13.github.io/species/Human.jpg"
+		},
+		{
+			"name" : "Hutt",
+			"imagePath" : "https://samuelmd13.github.io/species/Hutt.jpg"
+		},
+		{
+			"name" : "Iktotchi",
+			"imagePath" : "https://samuelmd13.github.io/species/Iktotchi.jpg"
+		},
+		{
+			"name" : "Kaleesh",
+			"imagePath" : "https://samuelmd13.github.io/species/Kaleesh.jpg"
+		},
+		{
+			"name" : "Kaminoan",
+			"imagePath" : "https://samuelmd13.github.io/species/Kaminoan.jpg"
+		},
+		{
+			"name" : "Kel Dor",
+			"imagePath" : "https://samuelmd13.github.io/species/KelDor.jpg"
+		},
+		{
+			"name" : "Mirialan",
+			"imagePath" : "https://samuelmd13.github.io/species/Mirialan.jpg"
+		},
+		{
+			"name" : "Mon Calamari",
+			"imagePath" : "https://samuelmd13.github.io/species/MonCalamari.jpg"
+		},
+		{
+			"name" : "Muun",
+			"imagePath" : "https://samuelmd13.github.io/species/Muun.jpg"
+		},
+		{
+			"name" : "Nautolan",
+			"imagePath" : "https://samuelmd13.github.io/species/Nautolan.jpg"
+		},
+		{
+			"name" : "Neimodian",
+			"imagePath" : "https://samuelmd13.github.io/species/Neimodian.jpg"
+		},
+		{
+			"name" : "Pau'an",
+			"imagePath" : "https://samuelmd13.github.io/species/Pau'an.jpg"
+		},
+		{
+			"name" : "Quermian",
+			"imagePath" : "https://samuelmd13.github.io/species/Quermian.jpg"
+		},
+		{
+			"name" : "Rodian",
+			"imagePath" : "https://samuelmd13.github.io/species/Rodian.jpg"
+		},
+		{
+			"name" : "Skakoan",
+			"imagePath" : "https://samuelmd13.github.io/species/Skakoan.jpg"
+		},
+		{
+			"name" : "Sullustan",
+			"imagePath" : "https://samuelmd13.github.io/species/Sullustan.jpg"
+		},
+		{
+			"name" : "Tholothian",
+			"imagePath" : "https://samuelmd13.github.io/species/Tholothian.jpg"
+		},
+		{
+			"name" : "Togruta",
+			"imagePath" : "https://samuelmd13.github.io/species/Togruta.jpg"
+		},
+		{
+			"name" : "Toong",
+			"imagePath" : "https://samuelmd13.github.io/species/Toong.jpg"
+		},
+		{
+			"name" : "Toydarian",
+			"imagePath" : "https://samuelmd13.github.io/species/Toydarian.jpg"
+		},
+		{
+			"name" : "Trandoshan",
+			"imagePath" : "https://samuelmd13.github.io/species/Trandoshan.jpg"
+		},
+		{
+			"name" : "Twi'lek",
+			"imagePath" : "https://samuelmd13.github.io/species/Twi'lek.jpg"
+		},
+		{
+			"name" : "Vulptereen",
+			"imagePath" : "https://samuelmd13.github.io/species/Vulptereen.jpg"
+		},
+		{
+			"name" : "Wookiee",
+			"imagePath" : "https://samuelmd13.github.io/species/Wookiee.jpg"
+		},
+		{
+			"name" : "Xexto",
+			"imagePath" : "https://samuelmd13.github.io/species/Xexto.jpg"
+		},
+		{
+			"name" : "Yoda's species",
+			"imagePath" : "https://samuelmd13.github.io/species/Yoda'sspecies.jpg"
+		},
+		{
+			"name" : "Zabrak",
+			"imagePath" : "https://samuelmd13.github.io/species/Zabrak.jpg"
+		}
+	],
+	"planets" : [
+		{
+			"name" : "Alderaan",
+			"imagePath" : "https://samuelmd13.github.io/planets/Alderaan.jpg"
+		},
+		{
+			"name" : "Aleen Minor",
+			"imagePath" : "https://samuelmd13.github.io/planets/AleenMinor.jpg"
+		},
+		{
+			"name" : "Bespin",
+			"imagePath" : "https://samuelmd13.github.io/planets/Bespin.jpg"
+		},
+		{
+			"name" : "Bestine IV",
+			"imagePath" : "https://samuelmd13.github.io/planets/BestineIV.jpg"
+		},
+		{
+			"name" : "Cato Neimoidia",
+			"imagePath" : "https://samuelmd13.github.io/planets/CatoNeimoidia.jpg"
+		},
+		{
+			"name" : "Cerea",
+			"imagePath" : "https://samuelmd13.github.io/planets/Cerea.jpg"
+		},
+		{
+			"name" : "Champala",
+			"imagePath" : "https://samuelmd13.github.io/planets/Champala.jpg"
+		},
+		{
+			"name" : "Chandrila",
+			"imagePath" : "https://samuelmd13.github.io/planets/Chandrila.jpg"
+		},
+		{
+			"name" : "Concord Dawn",
+			"imagePath" : "https://samuelmd13.github.io/planets/ConcordDawn.jpg"
+		},
+		{
+			"name" : "Corellia",
+			"imagePath" : "https://samuelmd13.github.io/planets/Corellia.jpg"
+		},
+		{
+			"name" : "Coruscant",
+			"imagePath" : "https://samuelmd13.github.io/planets/Coruscant.jpg"
+		},
+		{
+			"name" : "Dagobah",
+			"imagePath" : "https://samuelmd13.github.io/planets/Dagobah.jpg"
+		},
+		{
+			"name" : "Dantooine",
+			"imagePath" : "https://samuelmd13.github.io/planets/Dantooine.jpg"
+		},
+		{
+			"name" : "Dathomir",
+			"imagePath" : "https://samuelmd13.github.io/planets/Dathomir.jpg"
+		},
+		{
+			"name" : "Dorin",
+			"imagePath" : "https://samuelmd13.github.io/planets/Dorin.jpg"
+		},
+		{
+			"name" : "Endor",
+			"imagePath" : "https://samuelmd13.github.io/planets/Endor.jpg"
+		},
+		{
+			"name" : "Eriadu",
+			"imagePath" : "https://samuelmd13.github.io/planets/Eriadu.jpg"
+		},
+		{
+			"name" : "Felucia",
+			"imagePath" : "https://samuelmd13.github.io/planets/Felucia.jpg"
+		},
+		{
+			"name" : "Geonosis",
+			"imagePath" : "https://samuelmd13.github.io/planets/Geonosis.jpg"
+		},
+		{
+			"name" : "Glee Anselm",
+			"imagePath" : "https://samuelmd13.github.io/planets/GleeAnselm.jpg"
+		},
+		{
+			"name" : "Haruun Kal",
+			"imagePath" : "https://samuelmd13.github.io/planets/HaruunKal.jpg"
+		},
+		{
+			"name" : "Hoth",
+			"imagePath" : "https://samuelmd13.github.io/planets/Hoth.jpg"
+		},
+		{
+			"name" : "Iktotch",
+			"imagePath" : "https://samuelmd13.github.io/planets/Iktotch.jpg"
+		},
+		{
+			"name" : "Iridonia",
+			"imagePath" : "https://samuelmd13.github.io/planets/Iridonia.jpg"
+		},
+		{
+			"name" : "Jakku",
+			"imagePath" : "https://samuelmd13.github.io/planets/Jakku.jpg"
+		},
+		{
+			"name" : "Kalee",
+			"imagePath" : "https://samuelmd13.github.io/planets/Kalee.jpg"
+		},
+		{
+			"name" : "Kamino",
+			"imagePath" : "https://samuelmd13.github.io/planets/Kamino.jpg"
+		},
+		{
+			"name" : "Kashyyyk",
+			"imagePath" : "https://samuelmd13.github.io/planets/Kashyyyk.jpg"
+		},
+		{
+			"name" : "Malastare",
+			"imagePath" : "https://samuelmd13.github.io/planets/Malastare.jpg"
+		},
+		{
+			"name" : "Mirial",
+			"imagePath" : "https://samuelmd13.github.io/planets/Mirial.jpg"
+		},
+		{
+			"name" : "Mon Cala",
+			"imagePath" : "https://samuelmd13.github.io/planets/MonCala.jpg"
+		},
+		{
+			"name" : "Mustafar",
+			"imagePath" : "https://samuelmd13.github.io/planets/Mustafar.jpg"
+		},
+		{
+			"name" : "Muunilinst",
+			"imagePath" : "https://samuelmd13.github.io/planets/Muunilinst.jpg"
+		},
+		{
+			"name" : "Mygeeto",
+			"imagePath" : "https://samuelmd13.github.io/planets/Mygeeto.jpg"
+		},
+		{
+			"name" : "Naboo",
+			"imagePath" : "https://samuelmd13.github.io/planets/Naboo.jpg"
+		},
+		{
+			"name" : "Nal Hutta",
+			"imagePath" : "https://samuelmd13.github.io/planets/NalHutta.jpg"
+		},
+		{
+			"name" : "Ojom",
+			"imagePath" : "https://samuelmd13.github.io/planets/Ojom.jpg"
+		},
+		{
+			"name" : "Ord Mantell",
+			"imagePath" : "https://samuelmd13.github.io/planets/OrdMantell.jpg"
+		},
+		{
+			"name" : "Polis Massa",
+			"imagePath" : "https://samuelmd13.github.io/planets/PolisMassa.jpg"
+		},
+		{
+			"name" : "Quermia",
+			"imagePath" : "https://samuelmd13.github.io/planets/Quermia.jpg"
+		},
+		{
+			"name" : "Rodia",
+			"imagePath" : "https://samuelmd13.github.io/planets/Rodia.jpg"
+		},
+		{
+			"name" : "Ryloth",
+			"imagePath" : "https://samuelmd13.github.io/planets/Ryloth.jpg"
+		},
+		{
+			"name" : "Saleucami",
+			"imagePath" : "https://samuelmd13.github.io/planets/Saleucami.jpg"
+		},
+		{
+			"name" : "Serenno",
+			"imagePath" : "https://samuelmd13.github.io/planets/Serenno.jpg"
+		},
+		{
+			"name" : "Shili",
+			"imagePath" : "https://samuelmd13.github.io/planets/Shili.jpg"
+		},
+		{
+			"name" : "Skako",
+			"imagePath" : "https://samuelmd13.github.io/planets/Skako.jpg"
+		},
+		{
+			"name" : "Socorro",
+			"imagePath" : "https://samuelmd13.github.io/planets/Socorro.jpg"
+		},
+		{
+			"name" : "Stewjon",
+			"imagePath" : "https://samuelmd13.github.io/planets/Stewjon.jpg"
+		},
+		{
+			"name" : "Sullust",
+			"imagePath" : "https://samuelmd13.github.io/planets/Sullust.jpg"
+		},
+		{
+			"name" : "Tatooine",
+			"imagePath" : "https://samuelmd13.github.io/planets/Tatooine.jpg"
+		},
+		{
+			"name" : "Tholoth",
+			"imagePath" : "https://samuelmd13.github.io/planets/Tholoth.jpg"
+		},
+		{
+			"name" : "Toydaria",
+			"imagePath" : "https://samuelmd13.github.io/planets/Toydaria.jpg"
+		},
+		{
+			"name" : "Trandosha",
+			"imagePath" : "https://samuelmd13.github.io/planets/Trandosha.jpg"
+		},
+		{
+			"name" : "Troiken",
+			"imagePath" : "https://samuelmd13.github.io/planets/Troiken.jpg"
+		},
+		{
+			"name" : "Tund",
+			"imagePath" : "https://samuelmd13.github.io/planets/Tund.jpg"
+		},
+		{
+			"name" : "Umbara",
+			"imagePath" : "https://samuelmd13.github.io/planets/Umbara.jpg"
+		},
+		{
+			"name" : "Utapau",
+			"imagePath" : "https://samuelmd13.github.io/planets/Utapau.jpg"
+		},
+		{
+			"name" : "Vulpter",
+			"imagePath" : "https://samuelmd13.github.io/planets/Vulpter.jpg"
+		},
+		{
+			"name" : "Yavin IV",
+			"imagePath" : "https://samuelmd13.github.io/planets/YavinIV.jpg"
+		},
+		{
+			"name" : "Zolan",
+			"imagePath" : "https://samuelmd13.github.io/planets/Zolan.jpg"
+		},
+		{
+			"name" : "unknown",
+			"imagePath" : "https://samuelmd13.github.io/planets/unknown.jpg"
+		}
+	],
+	"people" : [
+		{
+			"name" : "Ackbar",
+			"imagePath" : "https://samuelmd13.github.io/people/Ackbar.jpg"
+		},
+		{
+			"name" : "Adi Gallia",
+			"imagePath" : "https://samuelmd13.github.io/people/AdiGallia.jpg"
+		},
+		{
+			"name" : "Anakin Skywalker",
+			"imagePath" : "https://samuelmd13.github.io/people/AnakinSkywalker.jpg"
+		},
+		{
+			"name" : "Arvel Crynyd",
+			"imagePath" : "https://samuelmd13.github.io/people/ArvelCrynyd.jpg"
+		},
+		{
+			"name" : "Ayla Secura",
+			"imagePath" : "https://samuelmd13.github.io/people/AylaSecura.jpg"
+		},
+		{
+			"name" : "BB8",
+			"imagePath" : "https://samuelmd13.github.io/people/BB8.jpg"
+		},
+		{
+			"name" : "Bail Prestor Organa",
+			"imagePath" : "https://samuelmd13.github.io/people/BailPrestorOrgana.jpg"
+		},
+		{
+			"name" : "Barriss Offee",
+			"imagePath" : "https://samuelmd13.github.io/people/BarrisOffee.jpg"
+		},
+		{
+			"name" : "Ben Quadinaros",
+			"imagePath" : "https://samuelmd13.github.io/people/BenQuadinaros.jpg"
+		},
+		{
+			"name" : "Beru Whitesun lars",
+			"imagePath" : "https://samuelmd13.github.io/people/BeruWhitesunlars.jpg"
+		},
+		{
+			"name" : "Bib Fortuna",
+			"imagePath" : "https://samuelmd13.github.io/people/BibFortuna.jpg"
+		},
+		{
+			"name" : "Biggs Darklighter",
+			"imagePath" : "https://samuelmd13.github.io/people/BiggsDarklighter.jpg"
+		},
+		{
+			"name" : "Boba Fett",
+			"imagePath" : "https://samuelmd13.github.io/people/BobaFett.jpg"
+		},
+		{
+			"name" : "Bossk",
+			"imagePath" : "https://samuelmd13.github.io/people/Bossk.jpg"
+		},
+		{
+			"name" : "C-3PO",
+			"imagePath" : "https://samuelmd13.github.io/people/C3P0.jpg"
+        },
+		{
+			"name" : "Captain Phasma",
+			"imagePath" : "samuelmd13.github.io/people/CaptainPhasma.jpg"
+		},
+		{
+			"name" : "Chewbacca",
+			"imagePath" : "samuelmd13.github.io/people/Chewbacca.jpg"
+		},
+		{
+			"name" : "Cliegg Lars",
+			"imagePath" : "https://samuelmd13.github.io/people/ClieggLars.jpg"
+		},
+		{
+			"name" : "Cordé",
+			"imagePath" : "https://samuelmd13.github.io/people/Corde.jpg"
+		},
+		{
+			"name" : "Darth Maul",
+			"imagePath" : "https://samuelmd13.github.io/people/DarthMaul.jpg"
+		},
+		{
+			"name" : "Darth Vader",
+			"imagePath" : "https://samuelmd13.github.io/people/DarthVader.jpg"
+		},
+		{
+			"name" : "Dexter Jettster",
+			"imagePath" : "https://samuelmd13.github.io/people/DexterJettster.jpg"
+		},
+		{
+			"name" : "Dooku",
+			"imagePath" : "https://samuelmd13.github.io/people/Dooku.jpg"
+		},
+		{
+			"name" : "Dormé",
+			"imagePath" : "https://samuelmd13.github.io/people/Dorme.jpg"
+		},
+		{
+			"name" : "Dud Bolt",
+			"imagePath" : "https://samuelmd13.github.io/people/DudBolt.jpg"
+		},
+		{
+			"name" : "Eeth Koth",
+			"imagePath" : "https://samuelmd13.github.io/people/EethKoth.jpg"
+		},
+		{
+			"name" : "Finis Valorum",
+			"imagePath" : "https://samuelmd13.github.io/people/FinisValorum.jpg"
+		},
+		{
+			"name" : "Finn",
+			"imagePath" : "samuelmd13.github.io/people/Finn.jpg"
+		},
+		{
+			"name" : "Gasgano",
+			"imagePath" : "https://samuelmd13.github.io/people/Gasgano.jpg"
+		},
+		{
+			"name" : "Greedo",
+			"imagePath" : "https://samuelmd13.github.io/people/Greedo.jpg"
+		
+		},
+		{
+			"name" : "Gregar Typho",
+			"imagePath" : "https://samuelmd13.github.io/people/GregarTypho.jpg"
+		},
+		{
+			"name" : "Grievous",
+			"imagePath" : "https://samuelmd13.github.io/people/Grievous.jpg"
+		},
+		{
+			"name" : "Han Solo",
+			"imagePath" : "https://samuelmd13.github.io/people/HanSolo.jpg"
+		},
+		{
+			"name" : "IG-88",
+			"imagePath" : "https://samuelmd13.github.io/people/IG-88.jpg"
+		},
+		{
+			"name" : "Jabba Desilijic Tiure",
+			"imagePath" : "https://samuelmd13.github.io/people/JabbaDesilijicTiure.jpg"
+		},
+		{
+			"name" : "Jango Fett",
+			"imagePath" : "https://samuelmd13.github.io/people/JangoFett.jpg"
+		},
+		{
+			"name" : "Jar Jar Binks",
+			"imagePath" : "https://samuelmd13.github.io/people/JarJarBinks.jpg"
+		},
+		{
+			"name" : "Jek Tono Porkins",
+			"imagePath" : "https://samuelmd13.github.io/people/JekTonoPorkins.jpg"
+		},
+		{
+			"name" : "Jocasta Nu",
+			"imagePath" : "https://samuelmd13.github.io/people/JocastaNu.jpg"
+		},
+		{
+			"name" : "Ki-Adi-Mundi",
+			"imagePath" : "samuelmd13.github.io/people/Ki-Adi-Mundi.jpg"
+		},
+		{
+			"name" : "Kit Fisto",
+			"imagePath" : "https://samuelmd13.github.io/people/KitFisto.jpg"
+		},
+		{
+			"name" : "Lama Su",
+			"imagePath" : "https://samuelmd13.github.io/people/LamaSu.jpg"
+		},
+		{
+			"name" : "Lando Calrissian",
+			"imagePath" : "https://samuelmd13.github.io/people/LandoCalrissian.jpg"
+		},
+		{
+			"name" : "Leia Organa",
+			"imagePath" : "https://samuelmd13.github.io/people/LeiaOrgana.jpg"
+		},
+		{
+			"name" : "Lobot",
+			"imagePath" : "https://samuelmd13.github.io/people/Lobot.jpg"
+		},
+		{
+			"name" : "Luke Skywalker",
+			"imagePath" : "https://samuelmd13.github.io/people/LukeSkywalker.jpg"
+		},
+		{
+			"name" : "Luminara Unduli",
+			"imagePath" : "https://samuelmd13.github.io/people/LuminaraUnduli.jpg"
+		},
+		{
+			"name" : "Mace Windu",
+			"imagePath" : "https://samuelmd13.github.io/people/MaceWindu.jpg"
+		},
+		{
+			"name" : "Mas Amedda",
+			"imagePath" : "https://samuelmd13.github.io/people/MasAmedda.jpg"
+		},
+		{
+			"name" : "Mon Mothma",
+			"imagePath" : "https://samuelmd13.github.io/people/MonMothma.jpg"
+		},
+		{
+			"name" : "Nien Nunb",
+			"imagePath" : "https://samuelmd13.github.io/people/NienNunb.jpg"
+		},
+		{
+			"name" : "Nute Gunray",
+			"imagePath" : "https://samuelmd13.github.io/people/NuteGunray.jpg"
+		},
+		{
+			"name" : "Obi-Wan Kenobi",
+			"imagePath" : "https://samuelmd13.github.io/people/Obi-WanKenobi.jpg"
+		},
+		{
+			"name" : "Owen Lars",
+			"imagePath" : "https://samuelmd13.github.io/people/OwenLars.jpg"
+		},
+		{
+			"name" : "Padmé Amidala",
+			"imagePath" : "https://samuelmd13.github.io/people/PadmeAmidala.jpg"
+		},
+		{
+			"name" : "Palpatine",
+			"imagePath" : "https://samuelmd13.github.io/people/Palpatine.jpg"
+		},
+		{
+			"name" : "Plo Koon",
+			"imagePath" : "https://samuelmd13.github.io/people/PloKoon.jpg"
+		
+		},
+		{
+			"name" : "Poe Dameron",
+			"imagePath" : "https://samuelmd13.github.io/people/PoeDameron.jpg"
+		},
+		{
+			"name" : "Poggle the Lesser",
+			"imagePath" : "https://samuelmd13.github.io/people/PoggletheLesser.jpg"
+		},
+		{
+			"name" : "Quarsh Panaka",
+			"imagePath" : "https://samuelmd13.github.io/people/QuarshPanaka.jpg"
+		},
+		{
+			"name" : "Qui-Gon Jinn",
+			"imagePath" : "https://samuelmd13.github.io/people/Qui-Gon Jinn.jpg"
+		},
+		{
+			"name" : "R2-D2",
+			"imagePath" : "https://samuelmd13.github.io/people/R2-D2.jpg"
+		},
+		{
+			"name" : "R4-P17",
+			"imagePath" : "https://samuelmd13.github.io/people/R4-P17.jpg"
+		},
+		{
+			"name" : "R5-D4",
+			"imagePath" : "https://samuelmd13.github.io/people/R5-D4.jpg"
+		},
+		{
+			"name" : "Ratts Tyerell",
+			"imagePath" : "https://samuelmd13.github.io/people/RattsTyerell.jpg"
+		},
+		{
+			"name" : "Raymus Antilles",
+			"imagePath" : "https://samuelmd13.github.io/people/RaymusAntilles.jpg"
+		},
+		{
+			"name" : "Rey",
+			"imagePath" : "https://samuelmd13.github.io/people/Rey.jpg"
+		},
+		{
+			"name" : "Ric Olié",
+			"imagePath" : "https://samuelmd13.github.io/people/RicOlie.jpg"
+		},
+		{
+			"name" : "Roos Tarpals",
+			"imagePath" : "https://samuelmd13.github.io/people/RoosTarpals.jpg"
+		},
+		{
+			"name" : "Rugor Nass",
+			"imagePath" : "https://samuelmd13.github.io/people/RugorNass.jpg"
+		},
+		{
+			"name" : "Saesee Tiin",
+			"imagePath" : "https://samuelmd13.github.io/people/SaeseeTiin.jpg"
+		},
+		{
+			"name" : "San Hill",
+			"imagePath" : "https://samuelmd13.github.io/people/SanHill.jpg"
+		},
+		{
+			"name" : "Sebulba",
+			"imagePath" : "https://samuelmd13.github.io/people/Sebulba.jpg"
+		},
+		{
+			"name" : "Shaak Ti",
+			"imagePath" : "https://samuelmd13.github.io/people/ShaakTi.jpg"
+		},
+		{
+			"name" : "Shmi Skywalker",
+			"imagePath" : "https://samuelmd13.github.io/people/ShmiSkywalker.jpg"
+		},
+		{
+			"name" : "Sly Moore",
+			"imagePath" : "https://samuelmd13.github.io/people/SlyMoore.jpg"
+		},
+		{
+			"name" : "Tarfful",
+			"imagePath" : "https://samuelmd13.github.io/people/Tarfful.jpg"
+		},
+		{
+			"name" : "Taun We",
+			"imagePath" : "https://samuelmd13.github.io/people/TaunWe.jpg"
+		},
+		{
+			"name" : "Tion Medon",
+			"imagePath" : "https://samuelmd13.github.io/people/TionMedon.jpg"
+		},
+		{
+			"name" : "Wat Tambor",
+			"imagePath" : "https://samuelmd13.github.io/people/WatTambor.jpg"
+		},
+		{
+			"name" : "Watto",
+			"imagePath" : "https://samuelmd13.github.io/people/Watto.jpg"
+		},
+		{
+			"name" : "Wedge Antilles",
+			"imagePath" : "https://samuelmd13.github.io/people/WedgeAntilles.jpg"
+		},
+		{
+			"name" : "Wicket Systri Warrick",
+			"imagePath" : "https://samuelmd13.github.io/people/WicketSystriWarrick.jpg"
+		},
+		{
+			"name" : "Wilhuff Tarkin",
+			"imagePath" : "https://samuelmd13.github.io/people/WilhuffTarkin.jpg"
+		},
+		{
+			"name" : "Yarael Poof",
+			"imagePath" : "https://samuelmd13.github.io/people/YaraelPoof.jpg"
+		},
+		{
+			"name" : "Yoda",
+			"imagePath" : "https://samuelmd13.github.io/people/Yoda.jpg"
+		},
+		{
+			"name" : "Zam Wesell",
+			"imagePath" : "https://samuelmd13.github.io/people/ZamWesell.jpg"
+		}
+	],
+	"films" : [
+		{
+			"name" : "A New Hope",
+			"imagePath" : "https://samuelmd13.github.io/films/ANewHope.jpg"
+		},
+		{
+			"name" : "Attack of the Clones",
+			"imagePath" : "https://samuelmd13.github.io/films/AttackoftheClones.jpg"
+		},
+		{
+			"name" : "Return of the Jedi",
+			"imagePath" : "https://samuelmd13.github.io/films/ReturnoftheJedi.jpg"
+		},
+		{
+			"name" : "Revenge of the Sith",
+			"imagePath" : "https://samuelmd13.github.io/films/RevengeoftheSith.jpg"
+		},
+		{
+			"name" : "The Empire Strikes Back",
+			"imagePath" : "https://samuelmd13.github.io/films/TheEmpireStrikesBack.jpg"
+		},
+		{
+			"name" : "The Force Awakens",
+			"imagePath" : "https://samuelmd13.github.io/films/TheForceAwakens.jpg"
+		},
+		{
+			"name" : "The Phantom Menace",
+			"imagePath" : "https://samuelmd13.github.io/films/ThePhantomMenace.jpg"
+		}
+	]
+}
